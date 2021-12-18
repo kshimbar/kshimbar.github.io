@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About Me"
-author: "Paul Le"
+author: "Kohta Shimbara"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
