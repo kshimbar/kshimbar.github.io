@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Inte Facts',  url: 'facts'}
 - {name: 'Mens Team Member',  url: 'mmember'}
 - {name: 'Womens Team Member',  url: 'wmember'}
 - {name: 'Results',  url: 'results'}
