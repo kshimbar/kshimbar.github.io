@@ -8,8 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Men's Team Member',  url: 'mmember'}
-- {name: 'Women's Team Member',  url: 'wmember'}
+- {name: 'Mens Team Member',  url: 'mmember'}
+- {name: 'Womens Team Member',  url: 'wmember'}
 - {name: 'Results',  url: 'results'}
 - {name: 'Blog',  url: 'blog'}
 - {name: 'Learning Resources', url: 'resources'}
