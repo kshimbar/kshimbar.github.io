@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-This website was created to help people learn more about the Trinity University Rugby Club. We are waiting for you at Trinity University Rugby Club!
+Hello! My name is Kohta, junior at UIUC. I am in Japanese Student Association, and Illinois Mens Rugby Club!
