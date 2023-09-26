@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "millennial"
   spec.version       = "2.0.0"
   spec.authors       = ["Kohta"]
-  spec.email         = ["kshimbar@trinity.edu"]
+  spec.email         = ["kohtas2@illinois.edu"]
 
   spec.summary       = "A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages"
   spec.homepage      = "https://github.com/LeNPaul/Millennial"
