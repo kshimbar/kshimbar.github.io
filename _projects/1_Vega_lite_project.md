@@ -26,7 +26,6 @@ We can use a vegachart HTML tag like so:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/test.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/wow.json" style="width: 100%"></vegachart>
 
 In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
 
@@ -45,6 +44,7 @@ Below is where we can put some links to both the data and the analysis code as b
 </div>
 ```
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/wow.json" style="width: 100%"></vegachart>
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
