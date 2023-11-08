@@ -1,7 +1,7 @@
 ---
 name: HW 8 Visualization 1
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/vis1.png
 description: Homework 8 submission 1
 custom_js:
   - vega.min
