@@ -9,7 +9,7 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-# Homework 8 Visualization 1
+# Homework 8 Visualization 2
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/test.json" style="width: 100%"></vegachart>
