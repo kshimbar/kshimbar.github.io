@@ -10,8 +10,9 @@ custom_js:
   - justcharts
 ---
 
-#Final Project 3.1 
+# Final Project 3.1 
 
-Written by Kohta Shimbara, Nicholas Yeung, Sophia Matias
+Written by Group 17 (Kohta Shimbara, Nicholas Yeung, Sophia Matias)
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1.json" style="width: 100%"></vegachart>
+
