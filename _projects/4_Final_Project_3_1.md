@@ -16,3 +16,6 @@ Written by Group 17 (Kohta Shimbara, Nicholas Yeung, Sophia Matias)
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1.json" style="width: 100%"></vegachart>
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con1.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con2.json" style="width: 100%"></vegachart>
