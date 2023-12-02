@@ -21,9 +21,9 @@ Written by Group 17 (Kohta Shimbara, Nicholas Yeung, Sophia Matias)
 The dataset covers various aspects of video games including their features (like if they are handheld, support max players, are multiplatform, or have online capabilities), metadata (genres, whether they are licensed, publishers, if they are a sequel), sales metrics (review scores, sales, used price), release information (console, rating, year, if it’s a re-release), and length in different play styles (average, leisure, median, polled, rushed) for various game modes (all playstyles, completionists, main story, main story + extras). These fields provide a comprehensive overview of video game characteristics, sales performance, and player engagement metrics
 <br>
 <br>
+<br>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1.json" style="width: 100%"></vegachart>
-<br>
 <br>
 <br>
 
@@ -32,10 +32,9 @@ The dataset covers various aspects of video games including their features (like
 The visualization above depicts the relationship between the genre and sales of video games from the videogames.csv dataset. With the bars each depicting a genre of video games and the Y axis representing the number of video games under each genre. Through this visualization, you can see games under the action genre are most represented. With sports and racing/driving being the second and third genre most games fall under. 
 <br>
 <br>
-
+<br>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con1.json" style="width: 100%"></vegachart>
-<br>
 <br>
 <br>
 
@@ -45,10 +44,10 @@ This visualization was made from the Video Games Sales dataset retrieved from [t
 
 <br>
 <br>
+<br>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con2.json" style="width: 100%"></vegachart>
 
-<br>
 <br>
 <br>
 
