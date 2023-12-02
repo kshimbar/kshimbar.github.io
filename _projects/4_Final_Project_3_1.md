@@ -1,5 +1,5 @@
 ---
-name: Final Project 3.1
+name: Video games that make Money - sales of video games across genres and publishers visualized
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/fp3-1.png
 description: Final Project 3.1
@@ -35,7 +35,7 @@ The visualization above depicts the relationship between the genre and sales of 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con1.json" style="width: 100%"></vegachart>
 # Contextual Visualization: Global Sales of Video Games Between 2004 and 2010 By Genre
 <br>
-This visualization was made from the Video Games Sales dataset retrieved from [this link](https://data.world/sumitrock/video-games-sales). This visualization shows the global sales of video games (measured in millions) between 2004 and 2010 and is color coded by the genre of the video game. Since this dataset consists of more than 10,000 rows, we filtered the dataset to only include games between 2004 and 2010 in order to match the years of our main dataset. The dataset was also filtered to only display video games that had global sales of $0.01 million or more. Between 2004 and 2010, we can see that Wii Sports had the highest global sales in 2006 of 82.74 million which falls into the sports genre. Feel free to use the dropdown to see the global sales of different genres and you can hover over the data points to see more information. 
+This visualization was made from the Video Games Sales dataset retrieved from [this link](https://data.world/sumitrock/video-games-sales). This visualization shows the global sales of video games (measured in millions) between 2004 and 2010 and is color coded by the genre of the video game. Since this dataset consists of more than 10,000 rows, we filtered the dataset to only include games between 2004 and 2010 in order to match the years of our main dataset. The dataset was also filtered to only display video games that had global sales of $0.01 million or more. Between 2004 and 2010, we can see that Wii Sports had the highest global sales in 2006 of 82.74 million which falls into the sports genre. Feel free to use the dropdown to see the global sales of different genres and you can hover over the data points to see more information. We made this visualization, and the link for the code is attached to the bottom of the page.
 
 <br>
 <br>
@@ -45,7 +45,7 @@ This visualization was made from the Video Games Sales dataset retrieved from [t
 
 # Contextual Visualization: Top 10 Video Game Publishers By Global Sales 
 <br>
-This visualization was also made from the Video Games Sales dataset. This visualization shows the top 10 video game publishers that sold the most video games globally. The visualization is in descending order so we can see that Nintendo had the most global sales.  
+This visualization was also made from the Video Games Sales dataset. This visualization shows the top 10 video game publishers that sold the most video games globally. The visualization is in descending order so we can see that Nintendo had the most global sales. We made this visualization, and the link for the code is attached to the bottom of the page.
 
 <br>
 <br>
