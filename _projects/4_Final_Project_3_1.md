@@ -55,5 +55,5 @@ This visualization was also made from the Video Games Sales dataset. This visual
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/kshimbar/kshimbar.github.io/blob/master/test.ipynb" text="The Python Notebook" %}
+{% include elements/button.html link="https://github.com/kshimbar/kshimbar.github.io/blob/master/assets/python/final-part3-1.ipynb" text="The Python Notebook" %}
 </div>
