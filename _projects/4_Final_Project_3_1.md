@@ -10,7 +10,7 @@ custom_js:
   - justcharts
 ---
 
-# Final Project 3.1 
+# Video games that make Money: sales of video games across genres and publishers visualized
 <br>
 Written by Group 17 (Kohta Shimbara, Nicholas Yeung, Sophia Matias)
 <br>
