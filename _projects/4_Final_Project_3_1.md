@@ -25,7 +25,6 @@ The dataset covers various aspects of video games including their features (like
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1.json" style="width: 100%"></vegachart>
 <br>
-<br>
 
 # Main Visualization
 <br>
@@ -35,7 +34,6 @@ The visualization above depicts the relationship between the genre and sales of 
 <br>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con1.json" style="width: 100%"></vegachart>
-<br>
 <br>
 
 # Contextual Visualization: Global Sales of Video Games Between 2004 and 2010 By Genre
@@ -47,8 +45,6 @@ This visualization was made from the Video Games Sales dataset retrieved from [t
 <br>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fp3-1-con2.json" style="width: 100%"></vegachart>
-
-<br>
 <br>
 
 # Contextual Visualization: Top 10 Video Game Publishers By Global Sales 
